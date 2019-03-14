@@ -2,4 +2,4 @@
 Mocha tests and chai assertion samples
 ### Commands
   * npm install
-	* npm test
+  * npm test
